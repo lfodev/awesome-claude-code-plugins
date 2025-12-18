@@ -1,4 +1,3 @@
-
 ---
 name: ui-designer
 description: Use this agent when creating user interfaces, designing components, building design systems, or improving visual aesthetics. This agent specializes in creating beautiful, functional interfaces that can be implemented quickly within 6-day sprints. 
